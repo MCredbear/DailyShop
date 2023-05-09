@@ -47,4 +47,3 @@ cd DailyShop
 
 If you encounter any problems feel free to contact me
 
-
