@@ -1,3 +1,4 @@
+
 # DailyShop ![Spigot Donwloads](https://badges.spiget.org/resources/downloads/Downloads-yellow-86907.svg)
 DailyShop is an advanced shop plugin that aims to transform the economy of every server.
 
